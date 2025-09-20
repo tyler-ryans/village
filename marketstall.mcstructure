@@ -1,0 +1,16 @@
+{
+  "format_version": "1.12",
+  "size": [4, 3, 3],
+  "blocks": [
+    {"pos":[0,0,0],"name":"minecraft:oak_planks"},
+    {"pos":[1,0,0],"name":"minecraft:oak_planks"},
+    {"pos":[2,0,0],"name":"minecraft:oak_planks"},
+    {"pos":[0,1,0],"name":"minecraft:air"},
+    {"pos":[1,1,0],"name":"minecraft:air"},
+    {"pos":[2,1,0],"name":"minecraft:air"},
+    {"pos":[0,2,0],"name":"minecraft:oak_slab"},
+    {"pos":[1,2,0],"name":"minecraft:oak_slab"},
+    {"pos":[2,2,0],"name":"minecraft:oak_slab"}
+  ],
+  "entities":[]
+}
