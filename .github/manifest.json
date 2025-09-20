@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "BetterVillagesBP",
+    "description": "Adds new village structures without images",
+    "uuid": "c9f8e7d6-5b4a-4c3e-9f21-1d2c3b4a5f6e",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 10]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "Village generation module",
+      "uuid": "e1d2c3b4-5f6a-4b7c-8d9e-0f1a2b3c4d5e",
+      "version": [1, 0, 0]
+    }
+  ]
+}
